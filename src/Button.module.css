@@ -1,0 +1,14 @@
+.btn {
+  color: white;
+  background-color: tomato;
+  padding: 10px 20px;
+  border: none;
+}
+
+.changeBtn {
+  color: white;
+  background-color: blue;
+  padding: 13px 25px;
+  border: none;
+  margin-top: 5px;
+}
